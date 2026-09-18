@@ -52,4 +52,4 @@ Os scripts SQL foram divididos rigorosamente por blocos funcionais. Cada arquivo
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/LucasSLDEV]([https://https://github.com/LucasSLDEV](https://github.com/LucasSLDEV))
+   git clone [https://github.com/LucasSLDEV]([https://https://github.com/LucasSLDEV](https://github.com/LucasSLDEV)
